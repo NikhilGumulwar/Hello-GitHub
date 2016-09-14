@@ -1,0 +1,6 @@
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.exe.config
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.exe
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.pdb
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.csprojResolveAssemblyReference.cache
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.exe
+c:\users\nikhil.gumulwar\documents\visual studio 2015\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.pdb
